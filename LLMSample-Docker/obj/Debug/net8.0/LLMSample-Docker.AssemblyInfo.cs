@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LLMSample-Docker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+635525188b12c914c33ca23257f0dbbd6bd3adef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa87be8d0aff5557b62bac2dae930436b1fce24")]
 [assembly: System.Reflection.AssemblyProductAttribute("LLMSample-Docker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LLMSample-Docker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
